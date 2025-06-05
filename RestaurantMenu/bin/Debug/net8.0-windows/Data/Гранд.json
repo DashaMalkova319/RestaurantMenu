@@ -1,0 +1,1 @@
+{"Name":"Гранд","Type":"Ресторан","MainMenu":{"Name":"Основное","Dishes":[{"Name":"Стейк","Price":25.99,"Type":"MainDish"},{"Name":"Вино","Price":10.50,"Type":"Drink"}]},"SeasonalMenu":{"Name":"Летнее","Dishes":[{"Name":"Цезарь","Price":8.99,"Type":"Salad"}]}}
